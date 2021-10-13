@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.delete{
+    display: none;
+}
+
+.row:hover .delete{
+    display: initial;
+    vertical-align: top;
+}
+
+.row{
+    border-bottom: 1px solid;
+    width:60%;
+    margin-top: 20px;
+    margin-right:5px;
+}
